@@ -1,6 +1,8 @@
-pandas 
-numpy 
-scikit-learn 
-streamlit 
+```text
+pandas
+numpy
+scikit-learn
+streamlit
 joblib
 matplotlib
+```
